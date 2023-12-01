@@ -81,10 +81,3 @@ Goals are as follows;
 * Scipy
 * Ploty
 * Jupyter Notebook
-
-## Contributors ##
-* [Keshatwar Pratham Naresh](https://github.com/Prathamisok)
-* Arsh Jindal
-* Arav Khandelwal
-* [Prakhar Pratap Singh](https://github.com/G1lligan)
-
